@@ -724,7 +724,7 @@ video{
     left: 90%;
  }
 }
-@media only screen and (max-width:375px) {
+@media only screen and (max-width:480px) {
   .footbox{
     width: 680px;
   }
@@ -902,6 +902,7 @@ video{
     left: 200%;
     top: 60%;
    }
+    
    .previous{
     left: 20%;
     top: 60%;
